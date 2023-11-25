@@ -46,6 +46,6 @@ function calculateSpan(prices) {
 }
 
 // Example usage
-var prices = [100, 80, 60, 70, 60, 75, 85];
+var prices = [55, 75, 100, 69, 88, 70, 90];
 console.log("The stock spans are:", calculateSpan(prices));
 
